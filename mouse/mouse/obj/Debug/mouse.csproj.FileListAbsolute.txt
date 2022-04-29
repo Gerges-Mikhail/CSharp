@@ -1,0 +1,9 @@
+M:\New folder\mouse\mouse\bin\Debug\mouse.exe.config
+M:\New folder\mouse\mouse\bin\Debug\mouse.exe
+M:\New folder\mouse\mouse\bin\Debug\mouse.pdb
+M:\New folder\mouse\mouse\obj\Debug\mouse.csprojResolveAssemblyReference.cache
+M:\New folder\mouse\mouse\obj\Debug\mouse.Form1.resources
+M:\New folder\mouse\mouse\obj\Debug\mouse.Properties.Resources.resources
+M:\New folder\mouse\mouse\obj\Debug\mouse.csproj.GenerateResource.Cache
+M:\New folder\mouse\mouse\obj\Debug\mouse.exe
+M:\New folder\mouse\mouse\obj\Debug\mouse.pdb
